@@ -7,6 +7,7 @@
 | Title         | Technologies  | Status|
 | ------------- |-------------  | ----- |
 |[Transformer_Image_Completion](https://github.com/LukasBeckers/Transformer_Image_Completion "Transformer_Image_Completion")     |![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) | ongoing |
+|[OCM_GAN](https://github.com/LukasBeckers/OCM_GAN "Oxidative Methane Coupling GAN")|![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)| ongoing |
 
 
 
