@@ -1,5 +1,5 @@
 * 👀 Machine Learning Enthusiast.
-* 📖 Pursuing master's degree in Chemistry @ RWTH-Aachen University.
+* 📖 Pursuing master's degree @ RWTH-Aachen University.
 * 💡 Open to collaborating on projects and innovative ideas.
 
 ### 🖥️ Projects 
