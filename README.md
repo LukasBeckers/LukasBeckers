@@ -15,5 +15,5 @@
 📈 Stats 
 
  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LukasBeckers) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LukasBeckers) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LukasBeckers)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LukasBeckers&theme=dark_dimmed) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LukasBeckers&theme=dark_dimmed) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LukasBeckers&theme=dark_dimmed)
 
