@@ -10,7 +10,7 @@
 |[Unsloth-Docker](https://github.com/LukasBeckers/Unsloth-Docker "Dockerized Unsloth deployment!")|![Unsloth](https://img.shields.io/badge/Unsloth-black?style=flat-square&logo=unsloth) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)| completed |
 |[BallMill3D](https://github.com/LukasBeckers/BallMill3D "Triangulation of ball movements inside a mixermill using highspeed videos and epipolar geometry!")|![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)  ![Ultralytics](https://img.shields.io/badge/Ultralytics-black?style=flat-square&logo=ultralytics)| ongoing |
 
-### 🖥️ RWTH-TIME Projects 
+### 🖥️ RWTH-TIME Project Contributions
 
 
 | Title         | Technologies  | Status|
