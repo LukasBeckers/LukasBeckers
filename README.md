@@ -12,8 +12,4 @@
 
 ### 🖥️ RWTH-TIME Projects 
 
-📈 Stats 
-
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LukasBeckers&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LukasBeckers&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LukasBeckers&theme=dark)
 
