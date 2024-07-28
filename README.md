@@ -15,4 +15,4 @@
 
 | Title         | Technologies  | Status|
 | ------------- |-------------  | ----- |
-|[Transformer_Image_Completion](https://github.com/RWTH-TIME/shoutout "Transcription and diarization tool.")     || completed |
+|[shoutout](https://github.com/RWTH-TIME/shoutout "Transcription and diarization tool.")     || completed |
