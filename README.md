@@ -23,3 +23,4 @@
 | ------------- |-------------  | ----- |
 |[ballmill-3D](https://github.com/LukasBeckers/BallMill3D "Triangulation of ball movements inside a mixermill using highspeed videos and epipolar geometry!")|![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)  ![Ultralytics](https://img.shields.io/badge/Ultralytics-black?style=flat-square&logo=ultralytics)| ongoing |
 |[masterthesis](https://github.com/LukasBeckers/masterthesis "Extreme multilabel classification of japanese Patent classes (F-Terms), feature extraction and similarity measurement of patent class embeddings!")|![Huggingface](https://img.shields.io/badge/Huggingface-black?style=flat-square&logo=huggingface)  ![Pytorch](https://img.shields.io/badge/Pytorch-black?style=flat-square&logo=pytorch)| completed |
+
