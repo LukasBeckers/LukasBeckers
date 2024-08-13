@@ -47,7 +47,7 @@
 |[wir-profidaten-patstat](https://github.com/LukasBeckers/wir-profidaten-patstat "Entety matching between Profi dataset and Patstat dataset.")|| ongoing |
 |[ballmill-3D](https://github.com/LukasBeckers/BallMill3D "Triangulation of ball movements inside a mixermill using highspeed videos and epipolar geometry!")|![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)  ![Ultralytics](https://img.shields.io/badge/Ultralytics-black?style=flat-square&logo=ultralytics)| ongoing |
 |[clr-llm-agent](https://github.com/LukasBeckers/clr-llm-agent "Automate your computational literature reviews with automated Large Language Model (LLM) agents.")|| ongoing |
-|[glypmphe-clr](https://github.com/LukasBeckers/glypmphe-clr "A Computational Literature Review (CLR) on the Glymphatic System")|| ongoing |
+|[glymphe-clr](https://github.com/LukasBeckers/glymphe-clr "A Computational Literature Review (CLR) on the Glymphatic System")|| ongoing |
 
 ### 🎓 RWTH-TIME Project Contributions
 
