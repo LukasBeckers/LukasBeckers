@@ -8,11 +8,12 @@
 
 <table>
     <tr>
-        <th colspan="2"><header-main>## 🏠 Private Projects</th>
+        <th colspan="2"><header-main>🏠 Private Projects</th>
     </tr>
     <tr>
         <th><sub-header1></th>
         <th><sub-header2></th>
+        <th><sub-header3></th>
     </tr>
     <tr>
         <td>data1</td>
