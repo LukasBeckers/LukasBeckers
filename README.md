@@ -8,7 +8,7 @@
 
 <table>
     <tr>
-        <th colspan="2"><header-main></th>
+        <th colspan="2"><header-main>test</th>
     </tr>
     <tr>
         <th><sub-header1></th>
