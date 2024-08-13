@@ -8,7 +8,7 @@
 
 <table>
     <tr>
-        <th colspan="3" style="text-align: left; font-size: 24px;"><header-main>🏠 Private Projects</th>
+        <th colspan="3" style="text-align: left; font-size: 44px;"><header-main>🏠 Private Projects</th>
     </tr>
     <tr>
         <th><sub-header1>Title</th>
