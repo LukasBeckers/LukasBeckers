@@ -4,8 +4,8 @@
 * 💡 Passionate about Machine Learning and AI
 * 🤝 Open to collaborations on innovative projects
 
-### 🏠 Private Projects 
-
+### 🖥️ Projects 
+|### 🏠 Private Projects|
 | Title         | Technologies  | Status|
 | ------------- |-------------  | ----- |
 |[transformer-image_completion](https://github.com/LukasBeckers/transformer-image-completion "A self-coded transformer in tensorflow to complete MNIST images autoregressively.")     |![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) | completed |
@@ -13,11 +13,6 @@
 |[commit-message-reformulation](https://github.com/LukasBeckers/commit-message-reformulation "A git hook that reformulates your git commit messages to follow the github semantic commit conventions")|![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask)  | completed |
 |[ai-window](https://github.com/LukasBeckers/ai-window "Using stereo vision to and off-center projection to creae the illusion of a window.")|![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)  | ongoing |
 
-### 🎓 RWTH-TIME Project Contributions
-
-| Title         | Technologies  | Status|
-| ------------- |-------------  | ----- |
-|[shoutout](https://github.com/RWTH-TIME/shoutout "Transcription and diarization tool.")     || completed |
 
 ### 📚 Academia Projects
 
@@ -29,4 +24,11 @@
 |[ballmill-3D](https://github.com/LukasBeckers/BallMill3D "Triangulation of ball movements inside a mixermill using highspeed videos and epipolar geometry!")|![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)  ![Ultralytics](https://img.shields.io/badge/Ultralytics-black?style=flat-square&logo=ultralytics)| ongoing |
 |[clr-llm-agent](https://github.com/LukasBeckers/clr-llm-agent "Automate your computational literature reviews with automated Large Language Model (LLM) agents.")|| ongoing |
 |[glypmphe-clr](https://github.com/LukasBeckers/glypmphe-clr "A Computational Literature Review (CLR) on the Glymphatic System")|| ongoing |
+
+### 🎓 RWTH-TIME Project Contributions
+
+| Title         | Technologies  | Status|
+| ------------- |-------------  | ----- |
+|[shoutout](https://github.com/RWTH-TIME/shoutout "Transcription and diarization tool.")     |  | completed |
+
 
