@@ -8,7 +8,7 @@
 
 <table>
     <tr>
-        <th colspan="2"><header-main>test</th>
+        <th colspan="2"><header-main>## 🏠 Private Projects</th>
     </tr>
     <tr>
         <th><sub-header1></th>
@@ -25,7 +25,7 @@
 </table>
 
 
-### 🏠 Private Projects
+#
 
 | Title         | Technologies  | Status|
 | ------------- |-------------  | ----- |
