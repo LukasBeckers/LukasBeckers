@@ -4,11 +4,12 @@
 * 💡 Passionate about Machine Learning and AI
 * 🤝 Open to collaborations on innovative projects
 
+<!--
 ### 🖥️ Projects 
 
 <table>
     <tr>
-        <th colspan="3" style="text-align: left; font-size: 44px;"><header-main>🏠 Private Projects</th>
+        <th colspan="3" style="text-align: left; font-size: 24px;"><header-main>🏠 Private Projects</th>
     </tr>
     <tr>
         <th><sub-header1>Title</th>
@@ -18,16 +19,16 @@
     <tr>
         <td>data1</td>
         <td>data2</td>
-        <td>data2</td>
+        <td>data3</td>
     </tr>
     <tr>
         <td>data3</td>
         <td>data4</td>
     </tr>
 </table>
+-->
 
-
-#
+### 🏠 Private Projects
 
 | Title         | Technologies  | Status|
 | ------------- |-------------  | ----- |
