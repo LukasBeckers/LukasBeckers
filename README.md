@@ -8,15 +8,16 @@
 
 <table>
     <tr>
-        <th colspan="2"><header-main>🏠 Private Projects</th>
+        <th colspan="3" style="text-align: left; font-size: 24px;"><header-main>🏠 Private Projects</th>
     </tr>
     <tr>
-        <th><sub-header1></th>
-        <th><sub-header2></th>
-        <th><sub-header3></th>
+        <th><sub-header1>Title</th>
+        <th><sub-header2>Technologies</th>
+        <th><sub-header3>Status</th>
     </tr>
     <tr>
         <td>data1</td>
+        <td>data2</td>
         <td>data2</td>
     </tr>
     <tr>
