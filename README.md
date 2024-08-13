@@ -5,7 +5,8 @@
 * 🤝 Open to collaborations on innovative projects
 
 ### 🖥️ Projects 
-|### 🏠 Private Projects|
+| ### 🏠 Private Projects |
+| -------- |
 | Title         | Technologies  | Status|
 | ------------- |-------------  | ----- |
 |[transformer-image_completion](https://github.com/LukasBeckers/transformer-image-completion "A self-coded transformer in tensorflow to complete MNIST images autoregressively.")     |![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) | completed |
