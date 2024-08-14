@@ -17,8 +17,11 @@
         <th><sub-header3>Status</th>
     </tr>
     <tr>
-        <td>[transformer-image-completion](https://github.com/LukasBeckers/transformer-image-completion "A self-coded transformer in tensorflow to complete MNIST images autoregressively.")</td>
-        <td>![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) </td>
+        <td><a href="https://github.com/LukasBeckers/transformer-image-completion" title="A self-coded transformer in tensorflow to complete MNIST images autoregressively.">transformer-image-completion</td>
+        <td>
+            <img src="https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow" alt="TensorFlow">
+            <img src="https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv" alt="OpenCV">
+        </td>
         <td>completed</td>
     </tr>
     <tr>
