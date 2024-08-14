@@ -146,6 +146,8 @@
     </tr>
 </table>
 
+
+<!--
 ### 🏠 Private Projects
 
 | Title         | Technologies  | Status|
@@ -173,4 +175,4 @@
 | ------------- |-------------  | ----- |
 |[shoutout](https://github.com/RWTH-TIME/shoutout "Transcription and diarization tool.")     |  | completed |
 
-
+-->
