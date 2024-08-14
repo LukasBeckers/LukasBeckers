@@ -4,44 +4,6 @@
 * 💡 Passionate about Machine Learning and AI
 * 🤝 Open to collaborations on innovative projects
 
-<!-- 
-### 🖥️ Projects 
-
-<table>
-    <tr>
-        <th colspan="3" style="text-align: left; font-size: 24px;"><header-main>🏠 Private Projects</th>
-    </tr>
-    <tr>
-        <th><sub-header1>Title</th>
-        <th><sub-header2>Technologies</th>
-        <th><sub-header3>Status</th>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/LukasBeckers/transformer-image-completion" title="A self-coded transformer in tensorflow to complete MNIST images autoregressively.">transformer-image-completion</td>
-        <td>
-            <img src="https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow" alt="TensorFlow">
-            <img src="https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv" alt="OpenCV">
-        </td>
-        <td>completed</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/LukasBeckers/Unsloth-Docker" title="Simplify your Unsloth AI deployment with this Dockerized setup.">unsloth-docker</td>
-        <td>
-            <img src="https://img.shields.io/badge/Unsloth-black?style=flat-square&logo=unsloth" alt="Unsloth Ai">
-            <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker" alt="Docker">
-        </td>
-        <td>completed</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/LukasBeckers/commit-message-reformulation" title="A git hook that reformulates your git commit messages to follow the github semantic commit conventions">commit-message-reformulation</td>
-        <td>
-            <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask" alt="Flask">
-            <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker" alt="Docker">
-        </td>
-        <td>completed</td>
-    </tr>
-</table>
- -->
 
  ### 🖥️ Projects 
 
@@ -146,6 +108,66 @@
     </tr>
 </table>
 
+# 🏠 Private Projects
+
+### transformer-image-completion
+- **Description:** [A self-coded transformer in tensorflow to complete MNIST images autoregressively.](https://github.com/LukasBeckers/transformer-image-completion)
+- **Technologies:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)
+- **Status:** completed
+
+### unsloth-docker
+- **Description:** [Simplify your Unsloth AI deployment with this Dockerized setup.](https://github.com/LukasBeckers/Unsloth-Docker)
+- **Technologies:** ![Unsloth](https://img.shields.io/badge/Unsloth-black?style=flat-square&logo=unsloth) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+- **Status:** completed
+
+### commit-message-reformulation
+- **Description:** [A git hook that reformulates your git commit messages to follow the GitHub semantic commit conventions.](https://github.com/LukasBeckers/commit-message-reformulation)
+- **Technologies:** ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+- **Status:** completed
+
+### ai-window
+- **Description:** [Using stereo vision and off-center projection to create the illusion of a window.](https://github.com/LukasBeckers/ai-window)
+- **Technologies:** ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)
+- **Status:** ongoing
+
+# 📚 Academia Projects
+
+### masterthesis
+- **Description:** [Extreme multilabel classification of Japanese Patent classes (F-Terms), feature extraction, and similarity measurement of patent class embeddings.](https://github.com/LukasBeckers/masterthesis-jappat)
+- **Technologies:** ![Huggingface](https://img.shields.io/badge/Huggingface-black?style=flat-square&logo=huggingface) ![Pytorch](https://img.shields.io/badge/Pytorch-black?style=flat-square&logo=pytorch)
+- **Status:** completed
+
+### wir-kompetenz-landkarten
+- **Description:** [Kompetenz Landkarten basierend auf Patstat Patentdaten für WIR Regionen.](https://github.com/LukasBeckers/wir-kompetenz-landkarten)
+- **Technologies:** ![Geopandas](https://img.shields.io/badge/Geopandas-black?style=flat-square&logo=geopandas)
+- **Status:** completed
+
+### wir-profidaten-patstat
+- **Description:** [Entity matching between Profi dataset and Patstat dataset.](https://github.com/LukasBeckers/wir-profidaten-patstat)
+- **Technologies:** 
+- **Status:** ongoing
+
+### ballmill-3D
+- **Description:** [Triangulation of ball movements inside a mixermill using highspeed videos and epipolar geometry!](https://github.com/LukasBeckers/BallMill3D)
+- **Technologies:** ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![Ultralytics](https://img.shields.io/badge/Ultralytics-black?style=flat-square&logo=ultralytics)
+- **Status:** ongoing
+
+### clr-llm-agent
+- **Description:** [Automate your computational literature reviews with automated Large Language Model (LLM) agents.](https://github.com/LukasBeckers/clr-llm-agent)
+- **Technologies:** 
+- **Status:** ongoing
+
+### glymphe-clr
+- **Description:** [A Computational Literature Review (CLR) on the Glymphatic System.](https://github.com/LukasBeckers/glymphe-clr)
+- **Technologies:** 
+- **Status:** ongoing
+
+# 🎓 RWTH-TIME Project Contributions
+
+### shoutout
+- **Description:** [Transcription and diarization tool.](https://github.com/RWTH-TIME/shoutout)
+- **Technologies:** 
+- **Status:** completed
 
 <!--
 ### 🏠 Private Projects
