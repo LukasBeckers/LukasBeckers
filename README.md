@@ -89,9 +89,13 @@
         <td>ongoing</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/LukasBeckers/glymphe-clr" title="A Computational Literature Review (CLR) on the Glymphatic System">glymphe-clr</a></td>
-        <td></td>
-        <td>ongoing</td>
+        <td><a href="https://github.com/LukasBeckers/glymphe-clr-data-sources" title="Data Sources for a Computational Literature Review (CLR) on the Glymphatic System">glymphe-clr-data-sources</a></td>
+        <td>
+            <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask" alt="Flask">
+            <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker" alt="Docker">
+            <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" alt="React">
+        </td>
+        <td>completed</td>
     </tr>
     <tr>
         <th colspan="3" style="text-align: left; font-size: 24px;">🎓 RWTH-TIME Project Contributions</th>
