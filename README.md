@@ -113,5 +113,10 @@
         <td></td>
         <td>completed</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/RWTH-TIME/scystream" title="Open-source data science pipeline tooling ">scystream</a></td>
+        <td></td>
+        <td>ongoing</td>
+    </tr>
 </table>
 
