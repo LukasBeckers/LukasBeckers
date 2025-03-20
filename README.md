@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Lukas Beckers
 
-* 🎓 Pursuing a PhD at RWTH Aachen University
+* 📊 Data Scientist @ €ontrolExpert GMBH
 * 💡 Passionate about Machine Learning and AI
 * 🤝 Open to collaborations on innovative projects
 
