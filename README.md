@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Lukas Beckers
 
-* 📊 Data Scientist @ €ontrolExpert GMBH
+* 📊 Data Scientist @ Control€xpert GMBH
 * 💡 Passionate about Machine Learning and AI
 * 🤝 Open to collaborations on innovative projects
 
