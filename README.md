@@ -102,9 +102,7 @@
     </tr>
     <tr>
         <td><a href="https://github.com/LukasBeckers/lda-quick-start" title="A simple well documented jupyter notebook to perform LDA topic modeling on your documents">lda-quick-start</a></td>
-        <td>
-            
-        </td>
+        <td></td>
         <td>completed</td>
     </tr>
     <tr>
