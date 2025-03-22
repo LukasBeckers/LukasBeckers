@@ -92,7 +92,7 @@
         <td>completed</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/LukasBeckers/glymphe-clr-data-sources" title="Data Sources for a Computational Literature Review (CLR) on the Glymphatic System">glymphe-clr-data-sources</a></td>
+        <td><a href="https://github.com/LukasBeckers/pubmed-loader" title="Downloader to download bibliometric data from Pubmed">pubmed-loader</a></td>
         <td>
             <img src="https://img.shields.io/badge/Flask-white?style=flat-square&logo=Flask" alt="Flask">
             <img src="https://img.shields.io/badge/Docker-white?style=flat-square&logo=docker" alt="Docker">
